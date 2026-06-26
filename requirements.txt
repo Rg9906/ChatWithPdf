@@ -1,0 +1,10 @@
+langchain-community
+sentence-transformers
+pypdf
+python-dotenv
+google-generativeai
+faiss-cpu
+fastapi
+uvicorn
+jinja2
+streamlit

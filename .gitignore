@@ -1,0 +1,26 @@
+# Python environment and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Vector Database (holds serialized documents and embeddings)
+vectorstore/
+
+# Local configuration and secret keys
+.env
+
+# PDF datasets (ignore all PDF files in data folder, keep gitkeep)
+data/*
+!data/.gitkeep
+
+# IDE configuration folders
+.vscode/
+.idea/
+.DS_Store
