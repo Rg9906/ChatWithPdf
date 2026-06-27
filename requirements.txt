@@ -8,3 +8,5 @@ fastapi
 uvicorn
 jinja2
 streamlit
+python-multipart
+pymongo
