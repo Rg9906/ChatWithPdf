@@ -1,3 +1,5 @@
+> **ℹ️ Early learning project.** This was a first build of a RAG pipeline to learn the basics. The full research assistant built on those ideas is **[PaperPilot AI (Research_Assistant)](https://github.com/Rg9906/Research_Assistant)**.
+
 # 📄 Chat with PDF (RAG)
 
 Ever wished you could just throw a PDF at an AI and ask it questions instead of scrolling through 100 pages looking for that *one* paragraph?
